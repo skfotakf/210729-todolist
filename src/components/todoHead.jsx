@@ -18,7 +18,8 @@ function TodoHead() {
         <>
             <TodoHeadBlock>
                 <h1>{dateString}</h1>  
-                <div className="day">{dayName}</div>  
+                <div className="day">{dayName}</div> 
+                <div>{dayName}</div> 
             </TodoHeadBlock>
         </>
     );
