@@ -10,7 +10,7 @@ const TodoTemplateBlock = styled.div`
     margin-bottom: 32px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50px;
+    border-radius: 20px;
     background: #FFF;
 
 `;
